@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-17T19:49:21.532Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="dmaAeffEfwcUbH5dm1Yh" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-17T19:59:23.215Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="3GQAbhD361379Sj2HBzG" version="20.5.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1718" dy="1574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1718" dy="1574" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -290,6 +290,15 @@
         </mxCell>
         <mxCell id="f7lkOSeXfkVQM4IMvz92-9" value="&lt;b&gt;1:M&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="385" y="480" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f7lkOSeXfkVQM4IMvz92-10" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;categoria&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="145" y="625" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="f7lkOSeXfkVQM4IMvz92-11" value="" style="endArrow=none;html=1;rounded=0;exitX=1.027;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.02;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="f7lkOSeXfkVQM4IMvz92-10" target="wcKygk_WKPrEuLjn9pDS-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-50" y="660" as="sourcePoint" />
+            <mxPoint y="610" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
