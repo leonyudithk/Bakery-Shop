@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-17T19:25:47.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="BQT6G1YaIRGWiEvwaWcu" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-17T19:26:39.644Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="uCSS1SReEzIlsg7q_Hkd" version="20.5.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1632" dy="1844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -74,16 +74,16 @@
           <mxGeometry x="645" y="190" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="miYWSdLSkXnFFTQw0LnS-13" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;&lt;u&gt;Id&lt;/u&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="430" y="300" width="60" height="20" as="geometry" />
+          <mxGeometry x="425" y="275" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="miYWSdLSkXnFFTQw0LnS-14" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;Fecha_compra&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="435" y="340" width="110" height="30" as="geometry" />
+          <mxGeometry x="435" y="300" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="miYWSdLSkXnFFTQw0LnS-15" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;total_pagar&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="440" y="380" width="110" height="30" as="geometry" />
+          <mxGeometry x="440" y="340" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="miYWSdLSkXnFFTQw0LnS-16" value="Descripción" style="ellipse;whiteSpace=wrap;html=1;align=center;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="420" y="425" width="110" height="30" as="geometry" />
+          <mxGeometry x="440" y="390" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="miYWSdLSkXnFFTQw0LnS-17" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;Id_cliente&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="120" y="340" width="120" height="30" as="geometry" />
